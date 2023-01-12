@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Ump Jump",
+        "file": "ump_jump.mp3",
+        "genre": "Hip-Hop",
+        "price": "$20"
+    },
+    {
+        "title": "Chill Vibes",
+        "file": "chill_vibes.mp3",
+        "genre": "Trip-Hop",
+        "price": "$15"
+    },
+    {
+        "title": "Summer Chill",
+        "file": "summer_chill.mp3",
+        "genre": "Chillout",
+        "price": "$25"
+    }
+]
